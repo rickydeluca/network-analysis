@@ -35,7 +35,7 @@ def compute_metric(G, metric, u=None):
         return np.mean(list(nx.eigenvector_centrality(G).values()))
     elif metric == "avg_clustering":
         return nx.average_clustering(G)
-    elif metric == "assortativity":
+    elif metric == "degree_assortativity":
         return nx.degree_assortativity_coefficient(G)
     elif metric == "degree":
         return nx.degree(G, u)

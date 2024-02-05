@@ -113,6 +113,7 @@ def analyze_networks(data_dir, outdir, compute_global=True, compute_local=True):
     if compute_local:
         local_metrics = [
             "degree",
+            # "edge_assortativity",
             # "eccentricity",
             # "closeness_centrality",
             # "betweenness_centrality",
@@ -157,4 +158,4 @@ if __name__ == '__main__':
     OUTDIR = "results/"
 
     # Compute network metrics.
-    analyze_networks(DATA_DIR, OUTDIR, compute_global=True)
+    analyze_networks(DATA_DIR, OUTDIR, compute_global=False, compute_local=True)
