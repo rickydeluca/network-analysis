@@ -5,6 +5,9 @@ import numpy as np
 
 
 def compute_metric(G, metric, u=None):
+    """
+    Compute the specified metric for the graph G.
+    """
     if metric == "num_nodes":
         return G.number_of_nodes()
     elif metric == "num_edges":
@@ -44,12 +47,15 @@ def compute_metric(G, metric, u=None):
     elif metric == "closeness_centrality":
         return nx.closeness_centrality(G, u)
     elif metric == "betweenness_centrality":
-        return nx.betweenness_centrality(G, u)
+        bet_dict = nx.betweenness_centrality(G)
+        return bet_dict[u]
     elif metric == "degree_centrality":
-        return nx.degree_centrality(G, u)
+        deg_dict = nx.degree_centrality(G)
+        return deg_dict[u]
     elif metric == "eigenvector_centrality":
-        return nx.eigenvector_centrality(G, u)
+        eig_dict = nx.eigenvector_centrality(G)
+        return eig_dict[u]
     elif metric == "clustering":
         return nx.clustering(G, u)
     else:
-        raise NameError(f"{metric} is not a valid matric.")
+        raise NameError(f"{metric} is not a valid metric.")

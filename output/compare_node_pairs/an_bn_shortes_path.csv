@@ -1,0 +1,10 @@
+source_nodes,metric_value_source,similarity_between_metrics,metric_value_target,target_nodes
+3_6_14_48,2,1.0,2,82
+80,1,1.0,1,65
+8_44,-1,-1.0,1,74_75
+17,1,0.5,2,80
+65,1,1.0,1,30
+29_36_52_63,2,-0.5,-1,87
+54,2,1.0,2,24
+20,2,0.5,1,30
+42,1,0.5,2,50

@@ -1,0 +1,3 @@
+python compare_metrics.py --source_net data/edi3/edgelist/age1.txt --target_net data/edi3/edgelist/age2.txt --node_pairs data/edi3/node_pairs/age1_age2.csv
+python compare_metrics.py --source_net data/edi3/edgelist/age1.txt --target_net data/edi3/edgelist/age4.txt --node_pairs data/edi3/node_pairs/age1_age4.csv
+python compare_metrics.py --source_net data/edi3/edgelist/an.txt --target_net data/edi3/edgelist/bn.txt --node_pairs data/edi3/node_pairs/an_bn.csv
