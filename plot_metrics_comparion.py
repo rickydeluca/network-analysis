@@ -18,11 +18,12 @@ def compute_metrics(G):
     Compute some local metrics of the graph G.
     """
     metrics = {
-        "Degree": dict(G.degree(weight="weight")),
+        "Degree": dict(G.degree()),
+        "Strength": dict(G.degree(weight="weight")),
         "Closeness": nx.closeness_centrality(G),
         "Betweenness": nx.betweenness_centrality(G, weight="weight"),
         "Eigenvector": nx.eigenvector_centrality(G, weight="weight", max_iter=1000),
-        "Katz": nx.katz_centrality(G, weight="weight", alpha=0.1, beta=1.0, max_iter=1000),
+        # "Katz": nx.katz_centrality(G, weight="weight", alpha=0.1, beta=1.0, max_iter=1000),
         "Clustering": nx.clustering(G, weight="weight")
     }
     return metrics
@@ -75,8 +76,8 @@ def plot_and_save_metrics(metrics1, metrics2, network_names, output_dir):
 
 if __name__ == "__main__":
     # Replace with actual filenames
-    file1 = "data/edi3/edgelist/age1.txt"
-    file2 = "data/edi3/edgelist/age4.txt"
+    file1 = "data/edi3/edgelist/an.txt"
+    file2 = "data/edi3/edgelist/bn.txt"
 
     # Output directory
     output_dir = "plots/net_comparison"

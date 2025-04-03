@@ -1,0 +1,92 @@
+item_number,description,scale,is_positively_phrased
+1,I eat sweets and carbohydrates without feeling nervous.,DT,TRUE
+2,I think that my stomach is too big.,BD,FALSE
+3,I wish that I could return to the security of childhood.,MF,FALSE
+4,I eat when I am upset.,B,FALSE
+5,I binge eat.,B,FALSE
+6,I wish that I could be younger.,MF,FALSE
+7,I'm thinking of going on a diet.,DT,FALSE
+8,I get frightened when my feelings are too strong.,ID,FALSE
+9,I think that my thighs are too large.,BD,FALSE
+10,I feel ineffective as a person.,LSE,FALSE
+11,I feel extremely guilty after overeating.,DT,FALSE
+12,I think my belly is just the right size.,BD,TRUE
+13,Only outstanding performance is acceptable in my family.,P,FALSE
+14,The happiest time in life is when you are a child.,MF,FALSE
+15,I am open about my feelings. ,II,TRUE
+16,I am terrified of gaining weight.,DT,FALSE
+17,I trust others.,IA,TRUE
+18,I feel alone in the world. ,PA,FALSE
+19,I feel satisfied with the shape of my body.,BD,TRUE
+20,I feel generally in control of things in my life.,PA,TRUE
+21,I get confused about what emotion I am feeling.,ID,FALSE
+22,I would rather be an adult than a child.,MF,TRUE
+23,I can communicate with others easily.,II,TRUE
+24,I wish I were someone else.,PA,FALSE
+25,I exaggerate or magnify the importance of weight.,DT,FALSE
+26,I can clearly identify what emotion I am feeling.,ID,TRUE
+27,I feel inadequate. ,LSE,FALSE
+28,I have gone on eating binges where I felt that I could not stop.,B,FALSE
+29,"As a child, I tried very hard to avoid disappointing my parents and teachers.",P,FALSE
+30,I have close relationships. ,IA,TRUE
+31,I like the shape of my buttocks.,BD,TRUE
+32,I am preoccupied with the desire to be thinner.,DT,FALSE
+33,I don't know what's going on inside me.,ID,FALSE
+34,I have trouble expressing my emotions to others.,II,FALSE
+35,The demands of adulthood are too great.,MF,FALSE
+36,I hate being less than best at things.,P,FALSE
+37,I feel safe with myself. ,LSE,TRUE
+38,I think about bingeing (overeating).,B,FALSE
+39,I feel happy that I am not a child anymore.,MF,TRUE
+40,I get confused as to whether or not I am hungry.,ID,FALSE
+41,I have a low opinion of myself.,LSE,FALSE
+42,I feel that I can achieve my standards.,LSE,TRUE
+43,My parents expect me to excel.,P,FALSE
+44,I worry that my feelings will get out of control.,ID,FALSE
+45,I think my hips are too large,BD,FALSE
+46,I eat moderately in front of others and stuff myself when they are gone.,B,FALSE
+47,I feel bloated after eating a normal meal. ,BD,FALSE
+48,I feel that people are happiest when they are children.,MF,FALSE
+49,"If I gain a pound, I worry that I will keep gaining.",DT,FALSE
+50,I feel that I am a valuable person.,LSE,TRUE
+51,"When I'm upset, I don't know if I'm sad, scared, or angry.",ID,FALSE
+52,I feel that I must do things perfectly or not do them at all.,P,FALSE
+53,I have the thought of trying to vomit in order to lose weight.,B,FALSE
+54,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,IA,FALSE
+55,I think that my thighs are just the right size.,BD,TRUE
+56,I feel empty inside (emotionally). ,PA,FALSE
+57,I can talk about personal thoughts or feelings.,II,TRUE
+58,The best years of your life are when you become an adult.,MF,TRUE
+59,I think my buttocks are too big.,BD,FALSE
+60,I have feelings that I find difficult to identify.,ID,FALSE
+61,I eat or drink in secret.,B,FALSE
+62,I think my hips are the right width.,BD,TRUE
+63,I have extremely high goals.,P,FALSE
+64,"When I am upset, I worry that I will start eating.",B,FALSE
+65,People I really like end up disappointing me.,IA,FALSE
+66,I am ashamed of my human weaknesses.,A,FALSE
+67,Other people would say that I am emotionally unstable.,ED,FALSE
+68,I would like to be in total control of my bodily urges.,A,FALSE
+69,I feel relaxed in most group situations.,II,TRUE
+70,I say things impulsively that I regret having said.,ED,FALSE
+71,I go out of my way to experience pleasure.,-,FALSE
+72,I have to be careful with my tendency to abuse drugs.,ED,FALSE
+73,I am dynamic with most people.,II,TRUE
+74,I feel trapped in relationships.,IA,FALSE
+75,Self-denial makes me feel stronger spiritually.,A,FALSE
+76,People understand my real problems.,IA,TRUE
+77,I can't get rid of strange ideas in my head.,ID,FALSE
+78,Eating for pleasure is a sign of moral weakness.,A,FALSE
+79,I am prone to outbursts of anger or range.,ED,FALSE
+80,I feel that people give me the credit I deserve.,PA,TRUE
+81,I have to be careful with my tendency to abuse alcohol.,ED,FALSE
+82,I think relaxing is just a waste of time.,A,FALSE
+83,Others would say that I get irritated easily.,ED,FALSE
+84,I feel like I am losing out everywhere.,PA,FALSE
+85,I experience marked mood shifts.,ED,FALSE
+86,I am embarassed by my bodily urges.,A,FALSE
+87,I would rather spend time by myself than with others.,II,FALSE
+88,Suffering makes you a better person.,A,FALSE
+89,I know there are people who love me.,IA,TRUE
+90,I feel like I must hurt myself or others.,ED,FALSE
+91,I feel that I really know who I am. ,PA,TRUE

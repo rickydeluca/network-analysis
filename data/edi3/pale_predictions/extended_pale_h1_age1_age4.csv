@@ -1,0 +1,306 @@
+source_node,target_node,num_predictions,is_seed,source_scale,target_scale,source_description,target_description,source_positively_phrased,target_positively_phrased
+9_45_55_59_62,9_45_55_59_62,100/100,True,BD;BD;BD;BD;BD,BD;BD;BD;BD;BD,I think that my thighs are too large.;I think my hips are too large;I think that my thighs are just the right size.;I think my buttocks are too big.;I think my hips are the right width.,I think that my thighs are too large.;I think my hips are too large;I think that my thighs are just the right size.;I think my buttocks are too big.;I think my hips are the right width.,False;False;True;False;True,False;False;True;False;True
+16_25_49,16_25_49,100/100,True,DT;DT;DT,DT;DT;DT,"I am terrified of gaining weight.;I exaggerate or magnify the importance of weight.;If I gain a pound, I worry that I will keep gaining.","I am terrified of gaining weight.;I exaggerate or magnify the importance of weight.;If I gain a pound, I worry that I will keep gaining.",False;False;False,False;False;False
+22_39_58,22_39_58,100/100,True,MF;MF;MF,MF;MF;MF,I would rather be an adult than a child.;I feel happy that I am not a child anymore.;The best years of your life are when you become an adult.,I would rather be an adult than a child.;I feel happy that I am not a child anymore.;The best years of your life are when you become an adult.,True;True;True,True;True;True
+31,31,100/100,True,BD,BD,I like the shape of my buttocks.,I like the shape of my buttocks.,True,True
+47,47,100/100,True,BD,BD,I feel bloated after eating a normal meal. ,I feel bloated after eating a normal meal. ,False,False
+3_6_14_48,3_6_14_48,100/100,True,MF;MF;MF;MF,MF;MF;MF;MF,I wish that I could return to the security of childhood.;I wish that I could be younger.;The happiest time in life is when you are a child.;I feel that people are happiest when they are children.,I wish that I could return to the security of childhood.;I wish that I could be younger.;The happiest time in life is when you are a child.;I feel that people are happiest when they are children.,False;False;False;False,False;False;False;False
+68_86,42,100/100,False,A;A,LSE,I would like to be in total control of my bodily urges.;I am embarassed by my bodily urges.,I feel that I can achieve my standards.,False;False,True
+85,85,100/100,True,ED,ED,I experience marked mood shifts.,I experience marked mood shifts.,False,False
+66,66,100/100,True,A,A,I am ashamed of my human weaknesses.,I am ashamed of my human weaknesses.,False,False
+88,88,100/100,True,A,A,Suffering makes you a better person.,Suffering makes you a better person.,False,False
+72_81,72_81,100/100,True,ED;ED,ED;ED,I have to be careful with my tendency to abuse drugs.;I have to be careful with my tendency to abuse alcohol.,I have to be careful with my tendency to abuse drugs.;I have to be careful with my tendency to abuse alcohol.,False;False,False;False
+76,13_43,100/100,False,IA,P;P,People understand my real problems.,Only outstanding performance is acceptable in my family.;My parents expect me to excel.,True,False;False
+75,75,100/100,True,A,A,Self-denial makes me feel stronger spiritually.,Self-denial makes me feel stronger spiritually.,False,False
+24,61,99/100,False,PA,B,I wish I were someone else.,I eat or drink in secret.,False,False
+2_12_19,2_12_19,99/100,False,BD;BD;BD,BD;BD;BD,I think that my stomach is too big.;I think my belly is just the right size.;I feel satisfied with the shape of my body.,I think that my stomach is too big.;I think my belly is just the right size.;I feel satisfied with the shape of my body.,False;True;True,False;True;True
+61,50,97/100,False,B,LSE,I eat or drink in secret.,I feel that I am a valuable person.,False,True
+17,35,96/100,False,IA,MF,I trust others.,The demands of adulthood are too great.,True,False
+23_69_73,37,95/100,False,II;II;II,LSE,I can communicate with others easily.;I feel relaxed in most group situations.;I am dynamic with most people.,I feel safe with myself. ,True;True;True,True
+70_79_83,67,92/100,False,ED;ED;ED,ED,I say things impulsively that I regret having said.;I am prone to outbursts of anger or range.;Others would say that I get irritated easily.,Other people would say that I am emotionally unstable.,False;False;False,False
+11,71,87/100,False,DT,-,I feel extremely guilty after overeating.,I go out of my way to experience pleasure.,False,False
+35,21_26_51_60,83/100,False,MF,ID;ID;ID;ID,The demands of adulthood are too great.,"I get confused about what emotion I am feeling.;I can clearly identify what emotion I am feeling.;When I'm upset, I don't know if I'm sad, scared, or angry.;I have feelings that I find difficult to identify.",False,False;True;False;False
+29_36_52_63,84,81/100,False,P;P;P;P,PA,"As a child, I tried very hard to avoid disappointing my parents and teachers.;I hate being less than best at things.;I feel that I must do things perfectly or not do them at all.;I have extremely high goals.",I feel like I am losing out everywhere.,False;False;False;False,False
+21_26_51_60,33,81/100,False,ID;ID;ID;ID,ID,"I get confused about what emotion I am feeling.;I can clearly identify what emotion I am feeling.;When I'm upset, I don't know if I'm sad, scared, or angry.;I have feelings that I find difficult to identify.",I don't know what's going on inside me.,False;True;False;False,False
+10_27,1,78/100,False,LSE;LSE,DT,I feel ineffective as a person.;I feel inadequate. ,I eat sweets and carbohydrates without feeling nervous.,False;False,True
+71,89,75/100,False,-,IA,I go out of my way to experience pleasure.,I know there are people who love me.,False,True
+90,74,74/100,False,ED,IA,I feel like I must hurt myself or others.,I feel trapped in relationships.,False,False
+67,77,73/100,False,ED,ID,Other people would say that I am emotionally unstable.,I can't get rid of strange ideas in my head.,False,False
+33,40,63/100,False,ID,ID,I don't know what's going on inside me.,I get confused as to whether or not I am hungry.,False,False
+53,15_57,63/100,False,B,II;II,I have the thought of trying to vomit in order to lose weight.,I am open about my feelings. ;I can talk about personal thoughts or feelings.,False,True;True
+41,68_86,60/100,False,LSE,A;A,I have a low opinion of myself.,I would like to be in total control of my bodily urges.;I am embarassed by my bodily urges.,False,False;False
+30,65,58/100,False,IA,IA,I have close relationships. ,People I really like end up disappointing me.,True,False
+7_32,64,58/100,False,DT;DT,B,I'm thinking of going on a diet.;I am preoccupied with the desire to be thinner.,"When I am upset, I worry that I will start eating.",False;False,False
+78,8_44,57/100,False,A,ID;ID,Eating for pleasure is a sign of moral weakness.,I get frightened when my feelings are too strong.;I worry that my feelings will get out of control.,False,False;False
+56,91,56/100,False,PA,PA,I feel empty inside (emotionally). ,I feel that I really know who I am. ,False,True
+13_43,90,56/100,False,P;P,ED,Only outstanding performance is acceptable in my family.;My parents expect me to excel.,I feel like I must hurt myself or others.,False;False,False
+77,70_79_83,56/100,False,ID,ED;ED;ED,I can't get rid of strange ideas in my head.,I say things impulsively that I regret having said.;I am prone to outbursts of anger or range.;Others would say that I get irritated easily.,False,False;False;False
+82,82,55/100,False,A,A,I think relaxing is just a waste of time.,I think relaxing is just a waste of time.,False,False
+15_57,30,55/100,False,II;II,IA,I am open about my feelings. ;I can talk about personal thoughts or feelings.,I have close relationships. ,True;True,True
+8_44,53,55/100,False,ID;ID,B,I get frightened when my feelings are too strong.;I worry that my feelings will get out of control.,I have the thought of trying to vomit in order to lose weight.,False;False,False
+74,29_36_52_63,54/100,False,IA,P;P;P;P,I feel trapped in relationships.,"As a child, I tried very hard to avoid disappointing my parents and teachers.;I hate being less than best at things.;I feel that I must do things perfectly or not do them at all.;I have extremely high goals.",False,False;False;False;False
+1,10_27,53/100,False,DT,LSE;LSE,I eat sweets and carbohydrates without feeling nervous.,I feel ineffective as a person.;I feel inadequate. ,True,False;False
+80,17,51/100,False,PA,IA,I feel that people give me the credit I deserve.,I trust others.,True,True
+37,76,48/100,False,LSE,IA,I feel safe with myself. ,People understand my real problems.,True,True
+37,41,46/100,False,LSE,LSE,I feel safe with myself. ,I have a low opinion of myself.,True,False
+77,53,44/100,False,ID,B,I can't get rid of strange ideas in my head.,I have the thought of trying to vomit in order to lose weight.,False,False
+54,23_69_73,44/100,False,IA,II;II;II,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,I can communicate with others easily.;I feel relaxed in most group situations.;I am dynamic with most people.,False,True;True;True
+50,20,42/100,False,LSE,PA,I feel that I am a valuable person.,I feel generally in control of things in my life.,True,True
+74,78,41/100,False,IA,A,I feel trapped in relationships.,Eating for pleasure is a sign of moral weakness.,False,False
+13_43,24,39/100,False,P;P,PA,Only outstanding performance is acceptable in my family.;My parents expect me to excel.,I wish I were someone else.,False;False,False
+40,82,39/100,False,ID,A,I get confused as to whether or not I am hungry.,I think relaxing is just a waste of time.,False,False
+87,87,38/100,False,II,II,I would rather spend time by myself than with others.,I would rather spend time by myself than with others.,False,False
+8_44,70_79_83,37/100,False,ID;ID,ED;ED;ED,I get frightened when my feelings are too strong.;I worry that my feelings will get out of control.,I say things impulsively that I regret having said.;I am prone to outbursts of anger or range.;Others would say that I get irritated easily.,False;False,False;False;False
+18,40,37/100,False,PA,ID,I feel alone in the world. ,I get confused as to whether or not I am hungry.,False,False
+4_5_28_38_46,24,37/100,False,B;B;B;B;B,PA,I eat when I am upset.;I binge eat.;I have gone on eating binges where I felt that I could not stop.;I think about bingeing (overeating).;I eat moderately in front of others and stuff myself when they are gone.,I wish I were someone else.,False;False;False;False;False,False
+64,8_44,36/100,False,B,ID;ID,"When I am upset, I worry that I will start eating.",I get frightened when my feelings are too strong.;I worry that my feelings will get out of control.,False,False;False
+34,20,36/100,False,II,PA,I have trouble expressing my emotions to others.,I feel generally in control of things in my life.,False,True
+40,4_5_28_38_46,35/100,False,ID,B;B;B;B;B,I get confused as to whether or not I am hungry.,I eat when I am upset.;I binge eat.;I have gone on eating binges where I felt that I could not stop.;I think about bingeing (overeating).;I eat moderately in front of others and stuff myself when they are gone.,False,False;False;False;False;False
+84,91,34/100,False,PA,PA,I feel like I am losing out everywhere.,I feel that I really know who I am. ,False,True
+34,56,33/100,False,II,PA,I have trouble expressing my emotions to others.,I feel empty inside (emotionally). ,False,False
+84,18,33/100,False,PA,PA,I feel like I am losing out everywhere.,I feel alone in the world. ,False,False
+50,56,33/100,False,LSE,PA,I feel that I am a valuable person.,I feel empty inside (emotionally). ,True,False
+18,87,29/100,False,PA,II,I feel alone in the world. ,I would rather spend time by myself than with others.,False,False
+84,77,27/100,False,PA,ID,I feel like I am losing out everywhere.,I can't get rid of strange ideas in my head.,False,False
+1,7_32,26/100,False,DT,DT;DT,I eat sweets and carbohydrates without feeling nervous.,I'm thinking of going on a diet.;I am preoccupied with the desire to be thinner.,True,False;False
+89,90,25/100,False,IA,ED,I know there are people who love me.,I feel like I must hurt myself or others.,True,False
+56,18,25/100,False,PA,PA,I feel empty inside (emotionally). ,I feel alone in the world. ,False,False
+80,30,24/100,False,PA,IA,I feel that people give me the credit I deserve.,I have close relationships. ,True,True
+91,34,24/100,False,PA,II,I feel that I really know who I am. ,I have trouble expressing my emotions to others.,True,False
+89,24,24/100,False,IA,PA,I know there are people who love me.,I wish I were someone else.,True,False
+7_32,68_86,24/100,False,DT;DT,A;A,I'm thinking of going on a diet.;I am preoccupied with the desire to be thinner.,I would like to be in total control of my bodily urges.;I am embarassed by my bodily urges.,False;False,False;False
+20,10_27,23/100,False,PA,LSE;LSE,I feel generally in control of things in my life.,I feel ineffective as a person.;I feel inadequate. ,True,False;False
+41,11,23/100,False,LSE,DT,I have a low opinion of myself.,I feel extremely guilty after overeating.,False,False
+15_57,17,22/100,False,II;II,IA,I am open about my feelings. ;I can talk about personal thoughts or feelings.,I trust others.,True;True,True
+34,29_36_52_63,22/100,False,II,P;P;P;P,I have trouble expressing my emotions to others.,"As a child, I tried very hard to avoid disappointing my parents and teachers.;I hate being less than best at things.;I feel that I must do things perfectly or not do them at all.;I have extremely high goals.",False,False;False;False;False
+64,7_32,22/100,False,B,DT;DT,"When I am upset, I worry that I will start eating.",I'm thinking of going on a diet.;I am preoccupied with the desire to be thinner.,False,False;False
+91,80,21/100,False,PA,PA,I feel that I really know who I am. ,I feel that people give me the credit I deserve.,True,True
+42,34,21/100,False,LSE,II,I feel that I can achieve my standards.,I have trouble expressing my emotions to others.,True,False
+87,18,21/100,False,II,PA,I would rather spend time by myself than with others.,I feel alone in the world. ,False,False
+90,65,20/100,False,ED,IA,I feel like I must hurt myself or others.,People I really like end up disappointing me.,False,False
+20,64,19/100,False,PA,B,I feel generally in control of things in my life.,"When I am upset, I worry that I will start eating.",True,False
+20,7_32,19/100,False,PA,DT;DT,I feel generally in control of things in my life.,I'm thinking of going on a diet.;I am preoccupied with the desire to be thinner.,True,False;False
+7_32,7_32,18/100,False,DT;DT,DT;DT,I'm thinking of going on a diet.;I am preoccupied with the desire to be thinner.,I'm thinking of going on a diet.;I am preoccupied with the desire to be thinner.,False;False,False;False
+4_5_28_38_46,90,18/100,False,B;B;B;B;B,ED,I eat when I am upset.;I binge eat.;I have gone on eating binges where I felt that I could not stop.;I think about bingeing (overeating).;I eat moderately in front of others and stuff myself when they are gone.,I feel like I must hurt myself or others.,False;False;False;False;False,False
+30,74,18/100,False,IA,IA,I have close relationships. ,I feel trapped in relationships.,True,False
+65,34,18/100,False,IA,II,People I really like end up disappointing me.,I have trouble expressing my emotions to others.,False,False
+1,11,17/100,False,DT,DT,I eat sweets and carbohydrates without feeling nervous.,I feel extremely guilty after overeating.,True,False
+42,17,17/100,False,LSE,IA,I feel that I can achieve my standards.,I trust others.,True,True
+65,54,17/100,False,IA,IA,People I really like end up disappointing me.,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,False,False
+71,76,17/100,False,-,IA,I go out of my way to experience pleasure.,People understand my real problems.,False,True
+87,54,17/100,False,II,IA,I would rather spend time by myself than with others.,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,False,False
+18,18,16/100,False,PA,PA,I feel alone in the world. ,I feel alone in the world. ,False,False
+89,23_69_73,16/100,False,IA,II;II;II,I know there are people who love me.,I can communicate with others easily.;I feel relaxed in most group situations.;I am dynamic with most people.,True,True;True;True
+18,4_5_28_38_46,16/100,False,PA,B;B;B;B;B,I feel alone in the world. ,I eat when I am upset.;I binge eat.;I have gone on eating binges where I felt that I could not stop.;I think about bingeing (overeating).;I eat moderately in front of others and stuff myself when they are gone.,False,False;False;False;False;False
+80,54,16/100,False,PA,IA,I feel that people give me the credit I deserve.,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,True,False
+4_5_28_38_46,23_69_73,15/100,False,B;B;B;B;B,II;II;II,I eat when I am upset.;I binge eat.;I have gone on eating binges where I felt that I could not stop.;I think about bingeing (overeating).;I eat moderately in front of others and stuff myself when they are gone.,I can communicate with others easily.;I feel relaxed in most group situations.;I am dynamic with most people.,False;False;False;False;False,True;True;True
+78,78,15/100,False,A,A,Eating for pleasure is a sign of moral weakness.,Eating for pleasure is a sign of moral weakness.,False,False
+54,34,15/100,False,IA,II,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,I have trouble expressing my emotions to others.,False,False
+33,4_5_28_38_46,15/100,False,ID,B;B;B;B;B,I don't know what's going on inside me.,I eat when I am upset.;I binge eat.;I have gone on eating binges where I felt that I could not stop.;I think about bingeing (overeating).;I eat moderately in front of others and stuff myself when they are gone.,False,False;False;False;False;False
+20,11,15/100,False,PA,DT,I feel generally in control of things in my life.,I feel extremely guilty after overeating.,True,False
+33,80,15/100,False,ID,PA,I don't know what's going on inside me.,I feel that people give me the credit I deserve.,False,True
+65,87,15/100,False,IA,II,People I really like end up disappointing me.,I would rather spend time by myself than with others.,False,False
+67,54,14/100,False,ED,IA,Other people would say that I am emotionally unstable.,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,False,False
+42,11,14/100,False,LSE,DT,I feel that I can achieve my standards.,I feel extremely guilty after overeating.,True,False
+64,78,14/100,False,B,A,"When I am upset, I worry that I will start eating.",Eating for pleasure is a sign of moral weakness.,False,False
+65,80,14/100,False,IA,PA,People I really like end up disappointing me.,I feel that people give me the credit I deserve.,False,True
+64,11,14/100,False,B,DT,"When I am upset, I worry that I will start eating.",I feel extremely guilty after overeating.,False,False
+56,84,14/100,False,PA,PA,I feel empty inside (emotionally). ,I feel like I am losing out everywhere.,False,False
+4_5_28_38_46,41,14/100,False,B;B;B;B;B,LSE,I eat when I am upset.;I binge eat.;I have gone on eating binges where I felt that I could not stop.;I think about bingeing (overeating).;I eat moderately in front of others and stuff myself when they are gone.,I have a low opinion of myself.,False;False;False;False;False,False
+40,21_26_51_60,14/100,False,ID,ID;ID;ID;ID,I get confused as to whether or not I am hungry.,"I get confused about what emotion I am feeling.;I can clearly identify what emotion I am feeling.;When I'm upset, I don't know if I'm sad, scared, or angry.;I have feelings that I find difficult to identify.",False,False;True;False;False
+82,29_36_52_63,13/100,False,A,P;P;P;P,I think relaxing is just a waste of time.,"As a child, I tried very hard to avoid disappointing my parents and teachers.;I hate being less than best at things.;I feel that I must do things perfectly or not do them at all.;I have extremely high goals.",False,False;False;False;False
+91,56,13/100,False,PA,PA,I feel that I really know who I am. ,I feel empty inside (emotionally). ,True,False
+82,78,13/100,False,A,A,I think relaxing is just a waste of time.,Eating for pleasure is a sign of moral weakness.,False,False
+42,23_69_73,13/100,False,LSE,II;II;II,I feel that I can achieve my standards.,I can communicate with others easily.;I feel relaxed in most group situations.;I am dynamic with most people.,True,True;True;True
+54,80,13/100,False,IA,PA,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,I feel that people give me the credit I deserve.,False,True
+15_57,54,13/100,False,II;II,IA,I am open about my feelings. ;I can talk about personal thoughts or feelings.,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,True;True,False
+54,15_57,12/100,False,IA,II;II,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,I am open about my feelings. ;I can talk about personal thoughts or feelings.,False,True;True
+87,64,12/100,False,II,B,I would rather spend time by myself than with others.,"When I am upset, I worry that I will start eating.",False,False
+78,15_57,12/100,False,A,II;II,Eating for pleasure is a sign of moral weakness.,I am open about my feelings. ;I can talk about personal thoughts or feelings.,False,True;True
+53,7_32,11/100,False,B,DT;DT,I have the thought of trying to vomit in order to lose weight.,I'm thinking of going on a diet.;I am preoccupied with the desire to be thinner.,False,False;False
+82,1,11/100,False,A,DT,I think relaxing is just a waste of time.,I eat sweets and carbohydrates without feeling nervous.,False,True
+20,41,10/100,False,PA,LSE,I feel generally in control of things in my life.,I have a low opinion of myself.,True,False
+91,20,10/100,False,PA,PA,I feel that I really know who I am. ,I feel generally in control of things in my life.,True,True
+10_27,10_27,10/100,False,LSE;LSE,LSE;LSE,I feel ineffective as a person.;I feel inadequate. ,I feel ineffective as a person.;I feel inadequate. ,False;False,False;False
+42,41,10/100,False,LSE,LSE,I feel that I can achieve my standards.,I have a low opinion of myself.,True,False
+65,56,10/100,False,IA,PA,People I really like end up disappointing me.,I feel empty inside (emotionally). ,False,False
+65,76,9/100,False,IA,IA,People I really like end up disappointing me.,People understand my real problems.,False,True
+91,76,9/100,False,PA,IA,I feel that I really know who I am. ,People understand my real problems.,True,True
+89,54,9/100,False,IA,IA,I know there are people who love me.,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,True,False
+11,4_5_28_38_46,9/100,False,DT,B;B;B;B;B,I feel extremely guilty after overeating.,I eat when I am upset.;I binge eat.;I have gone on eating binges where I felt that I could not stop.;I think about bingeing (overeating).;I eat moderately in front of others and stuff myself when they are gone.,False,False;False;False;False;False
+35,65,9/100,False,MF,IA,The demands of adulthood are too great.,People I really like end up disappointing me.,False,False
+20,80,8/100,False,PA,PA,I feel generally in control of things in my life.,I feel that people give me the credit I deserve.,True,True
+53,74,8/100,False,B,IA,I have the thought of trying to vomit in order to lose weight.,I feel trapped in relationships.,False,False
+64,10_27,8/100,False,B,LSE;LSE,"When I am upset, I worry that I will start eating.",I feel ineffective as a person.;I feel inadequate. ,False,False;False
+40,80,8/100,False,ID,PA,I get confused as to whether or not I am hungry.,I feel that people give me the credit I deserve.,False,True
+30,71,8/100,False,IA,-,I have close relationships. ,I go out of my way to experience pleasure.,True,False
+89,87,8/100,False,IA,II,I know there are people who love me.,I would rather spend time by myself than with others.,True,False
+21_26_51_60,68_86,8/100,False,ID;ID;ID;ID,A;A,"I get confused about what emotion I am feeling.;I can clearly identify what emotion I am feeling.;When I'm upset, I don't know if I'm sad, scared, or angry.;I have feelings that I find difficult to identify.",I would like to be in total control of my bodily urges.;I am embarassed by my bodily urges.,False;True;False;False,False;False
+89,30,8/100,False,IA,IA,I know there are people who love me.,I have close relationships. ,True,True
+87,33,8/100,False,II,ID,I would rather spend time by myself than with others.,I don't know what's going on inside me.,False,False
+29_36_52_63,4_5_28_38_46,8/100,False,P;P;P;P,B;B;B;B;B,"As a child, I tried very hard to avoid disappointing my parents and teachers.;I hate being less than best at things.;I feel that I must do things perfectly or not do them at all.;I have extremely high goals.",I eat when I am upset.;I binge eat.;I have gone on eating binges where I felt that I could not stop.;I think about bingeing (overeating).;I eat moderately in front of others and stuff myself when they are gone.,False;False;False;False,False;False;False;False;False
+41,78,7/100,False,LSE,A,I have a low opinion of myself.,Eating for pleasure is a sign of moral weakness.,False,False
+42,89,7/100,False,LSE,IA,I feel that I can achieve my standards.,I know there are people who love me.,True,True
+42,76,7/100,False,LSE,IA,I feel that I can achieve my standards.,People understand my real problems.,True,True
+54,41,7/100,False,IA,LSE,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,I have a low opinion of myself.,False,False
+91,11,7/100,False,PA,DT,I feel that I really know who I am. ,I feel extremely guilty after overeating.,True,False
+10_27,11,6/100,False,LSE;LSE,DT,I feel ineffective as a person.;I feel inadequate. ,I feel extremely guilty after overeating.,False;False,False
+30,70_79_83,6/100,False,IA,ED;ED;ED,I have close relationships. ,I say things impulsively that I regret having said.;I am prone to outbursts of anger or range.;Others would say that I get irritated easily.,True,False;False;False
+34,82,6/100,False,II,A,I have trouble expressing my emotions to others.,I think relaxing is just a waste of time.,False,False
+29_36_52_63,56,6/100,False,P;P;P;P,PA,"As a child, I tried very hard to avoid disappointing my parents and teachers.;I hate being less than best at things.;I feel that I must do things perfectly or not do them at all.;I have extremely high goals.",I feel empty inside (emotionally). ,False;False;False;False,False
+50,34,6/100,False,LSE,II,I feel that I am a valuable person.,I have trouble expressing my emotions to others.,True,False
+53,65,6/100,False,B,IA,I have the thought of trying to vomit in order to lose weight.,People I really like end up disappointing me.,False,False
+53,23_69_73,6/100,False,B,II;II;II,I have the thought of trying to vomit in order to lose weight.,I can communicate with others easily.;I feel relaxed in most group situations.;I am dynamic with most people.,False,True;True;True
+54,30,6/100,False,IA,IA,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,I have close relationships. ,False,True
+50,4_5_28_38_46,6/100,False,LSE,B;B;B;B;B,I feel that I am a valuable person.,I eat when I am upset.;I binge eat.;I have gone on eating binges where I felt that I could not stop.;I think about bingeing (overeating).;I eat moderately in front of others and stuff myself when they are gone.,True,False;False;False;False;False
+50,78,6/100,False,LSE,A,I feel that I am a valuable person.,Eating for pleasure is a sign of moral weakness.,True,False
+4_5_28_38_46,15_57,5/100,False,B;B;B;B;B,II;II,I eat when I am upset.;I binge eat.;I have gone on eating binges where I felt that I could not stop.;I think about bingeing (overeating).;I eat moderately in front of others and stuff myself when they are gone.,I am open about my feelings. ;I can talk about personal thoughts or feelings.,False;False;False;False;False,True;True
+8_44,91,5/100,False,ID;ID,PA,I get frightened when my feelings are too strong.;I worry that my feelings will get out of control.,I feel that I really know who I am. ,False;False,True
+78,68_86,5/100,False,A,A;A,Eating for pleasure is a sign of moral weakness.,I would like to be in total control of my bodily urges.;I am embarassed by my bodily urges.,False,False;False
+80,87,5/100,False,PA,II,I feel that people give me the credit I deserve.,I would rather spend time by myself than with others.,True,False
+91,17,5/100,False,PA,IA,I feel that I really know who I am. ,I trust others.,True,True
+82,41,5/100,False,A,LSE,I think relaxing is just a waste of time.,I have a low opinion of myself.,False,False
+4_5_28_38_46,89,5/100,False,B;B;B;B;B,IA,I eat when I am upset.;I binge eat.;I have gone on eating binges where I felt that I could not stop.;I think about bingeing (overeating).;I eat moderately in front of others and stuff myself when they are gone.,I know there are people who love me.,False;False;False;False;False,True
+53,76,5/100,False,B,IA,I have the thought of trying to vomit in order to lose weight.,People understand my real problems.,False,True
+84,84,5/100,False,PA,PA,I feel like I am losing out everywhere.,I feel like I am losing out everywhere.,False,False
+91,29_36_52_63,5/100,False,PA,P;P;P;P,I feel that I really know who I am. ,"As a child, I tried very hard to avoid disappointing my parents and teachers.;I hate being less than best at things.;I feel that I must do things perfectly or not do them at all.;I have extremely high goals.",True,False;False;False;False
+74,20,4/100,False,IA,PA,I feel trapped in relationships.,I feel generally in control of things in my life.,False,True
+89,4_5_28_38_46,4/100,False,IA,B;B;B;B;B,I know there are people who love me.,I eat when I am upset.;I binge eat.;I have gone on eating binges where I felt that I could not stop.;I think about bingeing (overeating).;I eat moderately in front of others and stuff myself when they are gone.,True,False;False;False;False;False
+20,89,4/100,False,PA,IA,I feel generally in control of things in my life.,I know there are people who love me.,True,True
+65,30,4/100,False,IA,IA,People I really like end up disappointing me.,I have close relationships. ,False,True
+71,65,4/100,False,-,IA,I go out of my way to experience pleasure.,People I really like end up disappointing me.,False,False
+21_26_51_60,64,4/100,False,ID;ID;ID;ID,B,"I get confused about what emotion I am feeling.;I can clearly identify what emotion I am feeling.;When I'm upset, I don't know if I'm sad, scared, or angry.;I have feelings that I find difficult to identify.","When I am upset, I worry that I will start eating.",False;True;False;False,False
+35,71,4/100,False,MF,-,The demands of adulthood are too great.,I go out of my way to experience pleasure.,False,False
+91,41,4/100,False,PA,LSE,I feel that I really know who I am. ,I have a low opinion of myself.,True,False
+15_57,34,4/100,False,II;II,II,I am open about my feelings. ;I can talk about personal thoughts or feelings.,I have trouble expressing my emotions to others.,True;True,False
+23_69_73,10_27,4/100,False,II;II;II,LSE;LSE,I can communicate with others easily.;I feel relaxed in most group situations.;I am dynamic with most people.,I feel ineffective as a person.;I feel inadequate. ,True;True;True,False;False
+65,20,4/100,False,IA,PA,People I really like end up disappointing me.,I feel generally in control of things in my life.,False,True
+41,8_44,4/100,False,LSE,ID;ID,I have a low opinion of myself.,I get frightened when my feelings are too strong.;I worry that my feelings will get out of control.,False,False;False
+42,1,3/100,False,LSE,DT,I feel that I can achieve my standards.,I eat sweets and carbohydrates without feeling nervous.,True,True
+64,68_86,3/100,False,B,A;A,"When I am upset, I worry that I will start eating.",I would like to be in total control of my bodily urges.;I am embarassed by my bodily urges.,False,False;False
+42,15_57,3/100,False,LSE,II;II,I feel that I can achieve my standards.,I am open about my feelings. ;I can talk about personal thoughts or feelings.,True,True;True
+15_57,23_69_73,3/100,False,II;II,II;II;II,I am open about my feelings. ;I can talk about personal thoughts or feelings.,I can communicate with others easily.;I feel relaxed in most group situations.;I am dynamic with most people.,True;True,True;True;True
+10_27,78,3/100,False,LSE;LSE,A,I feel ineffective as a person.;I feel inadequate. ,Eating for pleasure is a sign of moral weakness.,False;False,False
+21_26_51_60,29_36_52_63,3/100,False,ID;ID;ID;ID,P;P;P;P,"I get confused about what emotion I am feeling.;I can clearly identify what emotion I am feeling.;When I'm upset, I don't know if I'm sad, scared, or angry.;I have feelings that I find difficult to identify.","As a child, I tried very hard to avoid disappointing my parents and teachers.;I hate being less than best at things.;I feel that I must do things perfectly or not do them at all.;I have extremely high goals.",False;True;False;False,False;False;False;False
+33,56,3/100,False,ID,PA,I don't know what's going on inside me.,I feel empty inside (emotionally). ,False,False
+40,33,3/100,False,ID,ID,I get confused as to whether or not I am hungry.,I don't know what's going on inside me.,False,False
+89,89,3/100,False,IA,IA,I know there are people who love me.,I know there are people who love me.,True,True
+70_79_83,80,3/100,False,ED;ED;ED,PA,I say things impulsively that I regret having said.;I am prone to outbursts of anger or range.;Others would say that I get irritated easily.,I feel that people give me the credit I deserve.,False;False;False,True
+78,34,3/100,False,A,II,Eating for pleasure is a sign of moral weakness.,I have trouble expressing my emotions to others.,False,False
+30,80,3/100,False,IA,PA,I have close relationships. ,I feel that people give me the credit I deserve.,True,True
+13_43,35,3/100,False,P;P,MF,Only outstanding performance is acceptable in my family.;My parents expect me to excel.,The demands of adulthood are too great.,False;False,False
+82,4_5_28_38_46,3/100,False,A,B;B;B;B;B,I think relaxing is just a waste of time.,I eat when I am upset.;I binge eat.;I have gone on eating binges where I felt that I could not stop.;I think about bingeing (overeating).;I eat moderately in front of others and stuff myself when they are gone.,False,False;False;False;False;False
+10_27,20,3/100,False,LSE;LSE,PA,I feel ineffective as a person.;I feel inadequate. ,I feel generally in control of things in my life.,False;False,True
+67,64,3/100,False,ED,B,Other people would say that I am emotionally unstable.,"When I am upset, I worry that I will start eating.",False,False
+50,29_36_52_63,3/100,False,LSE,P;P;P;P,I feel that I am a valuable person.,"As a child, I tried very hard to avoid disappointing my parents and teachers.;I hate being less than best at things.;I feel that I must do things perfectly or not do them at all.;I have extremely high goals.",True,False;False;False;False
+42,30,3/100,False,LSE,IA,I feel that I can achieve my standards.,I have close relationships. ,True,True
+90,67,3/100,False,ED,ED,I feel like I must hurt myself or others.,Other people would say that I am emotionally unstable.,False,False
+87,80,3/100,False,II,PA,I would rather spend time by myself than with others.,I feel that people give me the credit I deserve.,False,True
+67,87,3/100,False,ED,II,Other people would say that I am emotionally unstable.,I would rather spend time by myself than with others.,False,False
+78,11,3/100,False,A,DT,Eating for pleasure is a sign of moral weakness.,I feel extremely guilty after overeating.,False,False
+50,54,2/100,False,LSE,IA,I feel that I am a valuable person.,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,True,False
+29_36_52_63,80,2/100,False,P;P;P;P,PA,"As a child, I tried very hard to avoid disappointing my parents and teachers.;I hate being less than best at things.;I feel that I must do things perfectly or not do them at all.;I have extremely high goals.",I feel that people give me the credit I deserve.,False;False;False;False,True
+4_5_28_38_46,50,2/100,False,B;B;B;B;B,LSE,I eat when I am upset.;I binge eat.;I have gone on eating binges where I felt that I could not stop.;I think about bingeing (overeating).;I eat moderately in front of others and stuff myself when they are gone.,I feel that I am a valuable person.,False;False;False;False;False,True
+91,1,2/100,False,PA,DT,I feel that I really know who I am. ,I eat sweets and carbohydrates without feeling nervous.,True,True
+30,54,2/100,False,IA,IA,I have close relationships. ,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,True,False
+67,33,2/100,False,ED,ID,Other people would say that I am emotionally unstable.,I don't know what's going on inside me.,False,False
+71,41,2/100,False,-,LSE,I go out of my way to experience pleasure.,I have a low opinion of myself.,False,False
+15_57,15_57,2/100,False,II;II,II;II,I am open about my feelings. ;I can talk about personal thoughts or feelings.,I am open about my feelings. ;I can talk about personal thoughts or feelings.,True;True,True;True
+4_5_28_38_46,67,2/100,False,B;B;B;B;B,ED,I eat when I am upset.;I binge eat.;I have gone on eating binges where I felt that I could not stop.;I think about bingeing (overeating).;I eat moderately in front of others and stuff myself when they are gone.,Other people would say that I am emotionally unstable.,False;False;False;False;False,False
+67,18,2/100,False,ED,PA,Other people would say that I am emotionally unstable.,I feel alone in the world. ,False,False
+67,4_5_28_38_46,2/100,False,ED,B;B;B;B;B,Other people would say that I am emotionally unstable.,I eat when I am upset.;I binge eat.;I have gone on eating binges where I felt that I could not stop.;I think about bingeing (overeating).;I eat moderately in front of others and stuff myself when they are gone.,False,False;False;False;False;False
+41,7_32,2/100,False,LSE,DT;DT,I have a low opinion of myself.,I'm thinking of going on a diet.;I am preoccupied with the desire to be thinner.,False,False;False
+30,89,2/100,False,IA,IA,I have close relationships. ,I know there are people who love me.,True,True
+33,21_26_51_60,2/100,False,ID,ID;ID;ID;ID,I don't know what's going on inside me.,"I get confused about what emotion I am feeling.;I can clearly identify what emotion I am feeling.;When I'm upset, I don't know if I'm sad, scared, or angry.;I have feelings that I find difficult to identify.",False,False;True;False;False
+21_26_51_60,80,2/100,False,ID;ID;ID;ID,PA,"I get confused about what emotion I am feeling.;I can clearly identify what emotion I am feeling.;When I'm upset, I don't know if I'm sad, scared, or angry.;I have feelings that I find difficult to identify.",I feel that people give me the credit I deserve.,False;True;False;False,True
+37,37,2/100,False,LSE,LSE,I feel safe with myself. ,I feel safe with myself. ,True,True
+41,34,2/100,False,LSE,II,I have a low opinion of myself.,I have trouble expressing my emotions to others.,False,False
+70_79_83,54,2/100,False,ED;ED;ED,IA,I say things impulsively that I regret having said.;I am prone to outbursts of anger or range.;Others would say that I get irritated easily.,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,False;False;False,False
+1,37,2/100,False,DT,LSE,I eat sweets and carbohydrates without feeling nervous.,I feel safe with myself. ,True,True
+78,17,2/100,False,A,IA,Eating for pleasure is a sign of moral weakness.,I trust others.,False,True
+35,76,2/100,False,MF,IA,The demands of adulthood are too great.,People understand my real problems.,False,True
+65,17,2/100,False,IA,IA,People I really like end up disappointing me.,I trust others.,False,True
+11,64,2/100,False,DT,B,I feel extremely guilty after overeating.,"When I am upset, I worry that I will start eating.",False,False
+13_43,80,2/100,False,P;P,PA,Only outstanding performance is acceptable in my family.;My parents expect me to excel.,I feel that people give me the credit I deserve.,False;False,True
+56,80,2/100,False,PA,PA,I feel empty inside (emotionally). ,I feel that people give me the credit I deserve.,False,True
+41,1,2/100,False,LSE,DT,I have a low opinion of myself.,I eat sweets and carbohydrates without feeling nervous.,False,True
+35,54,2/100,False,MF,IA,The demands of adulthood are too great.,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,False,False
+29_36_52_63,33,2/100,False,P;P;P;P,ID,"As a child, I tried very hard to avoid disappointing my parents and teachers.;I hate being less than best at things.;I feel that I must do things perfectly or not do them at all.;I have extremely high goals.",I don't know what's going on inside me.,False;False;False;False,False
+8_44,18,2/100,False,ID;ID,PA,I get frightened when my feelings are too strong.;I worry that my feelings will get out of control.,I feel alone in the world. ,False;False,False
+65,23_69_73,2/100,False,IA,II;II;II,People I really like end up disappointing me.,I can communicate with others easily.;I feel relaxed in most group situations.;I am dynamic with most people.,False,True;True;True
+30,76,2/100,False,IA,IA,I have close relationships. ,People understand my real problems.,True,True
+17,54,2/100,False,IA,IA,I trust others.,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,True,False
+65,91,2/100,False,IA,PA,People I really like end up disappointing me.,I feel that I really know who I am. ,False,True
+56,54,1/100,False,PA,IA,I feel empty inside (emotionally). ,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,False,False
+65,8_44,1/100,False,IA,ID;ID,People I really like end up disappointing me.,I get frightened when my feelings are too strong.;I worry that my feelings will get out of control.,False,False;False
+61,34,1/100,False,B,II,I eat or drink in secret.,I have trouble expressing my emotions to others.,False,False
+4_5_28_38_46,1,1/100,False,B;B;B;B;B,DT,I eat when I am upset.;I binge eat.;I have gone on eating binges where I felt that I could not stop.;I think about bingeing (overeating).;I eat moderately in front of others and stuff myself when they are gone.,I eat sweets and carbohydrates without feeling nervous.,False;False;False;False;False,True
+18,89,1/100,False,PA,IA,I feel alone in the world. ,I know there are people who love me.,False,True
+33,33,1/100,False,ID,ID,I don't know what's going on inside me.,I don't know what's going on inside me.,False,False
+78,7_32,1/100,False,A,DT;DT,Eating for pleasure is a sign of moral weakness.,I'm thinking of going on a diet.;I am preoccupied with the desire to be thinner.,False,False;False
+80,4_5_28_38_46,1/100,False,PA,B;B;B;B;B,I feel that people give me the credit I deserve.,I eat when I am upset.;I binge eat.;I have gone on eating binges where I felt that I could not stop.;I think about bingeing (overeating).;I eat moderately in front of others and stuff myself when they are gone.,True,False;False;False;False;False
+11,53,1/100,False,DT,B,I feel extremely guilty after overeating.,I have the thought of trying to vomit in order to lose weight.,False,False
+74,10_27,1/100,False,IA,LSE;LSE,I feel trapped in relationships.,I feel ineffective as a person.;I feel inadequate. ,False,False;False
+1,2_12_19,1/100,False,DT,BD;BD;BD,I eat sweets and carbohydrates without feeling nervous.,I think that my stomach is too big.;I think my belly is just the right size.;I feel satisfied with the shape of my body.,True,False;True;True
+37,89,1/100,False,LSE,IA,I feel safe with myself. ,I know there are people who love me.,True,True
+2_12_19,7_32,1/100,False,BD;BD;BD,DT;DT,I think that my stomach is too big.;I think my belly is just the right size.;I feel satisfied with the shape of my body.,I'm thinking of going on a diet.;I am preoccupied with the desire to be thinner.,False;True;True,False;False
+34,21_26_51_60,1/100,False,II,ID;ID;ID;ID,I have trouble expressing my emotions to others.,"I get confused about what emotion I am feeling.;I can clearly identify what emotion I am feeling.;When I'm upset, I don't know if I'm sad, scared, or angry.;I have feelings that I find difficult to identify.",False,False;True;False;False
+24,10_27,1/100,False,PA,LSE;LSE,I wish I were someone else.,I feel ineffective as a person.;I feel inadequate. ,False,False;False
+37,61,1/100,False,LSE,B,I feel safe with myself. ,I eat or drink in secret.,True,False
+20,15_57,1/100,False,PA,II;II,I feel generally in control of things in my life.,I am open about my feelings. ;I can talk about personal thoughts or feelings.,True,True;True
+78,56,1/100,False,A,PA,Eating for pleasure is a sign of moral weakness.,I feel empty inside (emotionally). ,False,False
+64,23_69_73,1/100,False,B,II;II;II,"When I am upset, I worry that I will start eating.",I can communicate with others easily.;I feel relaxed in most group situations.;I am dynamic with most people.,False,True;True;True
+17,80,1/100,False,IA,PA,I trust others.,I feel that people give me the credit I deserve.,True,True
+90,71,1/100,False,ED,-,I feel like I must hurt myself or others.,I go out of my way to experience pleasure.,False,False
+1,1,1/100,False,DT,DT,I eat sweets and carbohydrates without feeling nervous.,I eat sweets and carbohydrates without feeling nervous.,True,True
+71,37,1/100,False,-,LSE,I go out of my way to experience pleasure.,I feel safe with myself. ,False,True
+71,1,1/100,False,-,DT,I go out of my way to experience pleasure.,I eat sweets and carbohydrates without feeling nervous.,False,True
+80,89,1/100,False,PA,IA,I feel that people give me the credit I deserve.,I know there are people who love me.,True,True
+29_36_52_63,91,1/100,False,P;P;P;P,PA,"As a child, I tried very hard to avoid disappointing my parents and teachers.;I hate being less than best at things.;I feel that I must do things perfectly or not do them at all.;I have extremely high goals.",I feel that I really know who I am. ,False;False;False;False,True
+80,34,1/100,False,PA,II,I feel that people give me the credit I deserve.,I have trouble expressing my emotions to others.,True,False
+23_69_73,41,1/100,False,II;II;II,LSE,I can communicate with others easily.;I feel relaxed in most group situations.;I am dynamic with most people.,I have a low opinion of myself.,True;True;True,False
+67,65,1/100,False,ED,IA,Other people would say that I am emotionally unstable.,People I really like end up disappointing me.,False,False
+37,11,1/100,False,LSE,DT,I feel safe with myself. ,I feel extremely guilty after overeating.,True,False
+78,4_5_28_38_46,1/100,False,A,B;B;B;B;B,Eating for pleasure is a sign of moral weakness.,I eat when I am upset.;I binge eat.;I have gone on eating binges where I felt that I could not stop.;I think about bingeing (overeating).;I eat moderately in front of others and stuff myself when they are gone.,False,False;False;False;False;False
+89,67,1/100,False,IA,ED,I know there are people who love me.,Other people would say that I am emotionally unstable.,True,False
+70_79_83,34,1/100,False,ED;ED;ED,II,I say things impulsively that I regret having said.;I am prone to outbursts of anger or range.;Others would say that I get irritated easily.,I have trouble expressing my emotions to others.,False;False;False,False
+56,64,1/100,False,PA,B,I feel empty inside (emotionally). ,"When I am upset, I worry that I will start eating.",False,False
+42,54,1/100,False,LSE,IA,I feel that I can achieve my standards.,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,True,False
+89,15_57,1/100,False,IA,II;II,I know there are people who love me.,I am open about my feelings. ;I can talk about personal thoughts or feelings.,True,True;True
+54,8_44,1/100,False,IA,ID;ID,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,I get frightened when my feelings are too strong.;I worry that my feelings will get out of control.,False,False;False
+90,87,1/100,False,ED,II,I feel like I must hurt myself or others.,I would rather spend time by myself than with others.,False,False
+30,34,1/100,False,IA,II,I have close relationships. ,I have trouble expressing my emotions to others.,True,False
+80,78,1/100,False,PA,A,I feel that people give me the credit I deserve.,Eating for pleasure is a sign of moral weakness.,True,False
+11,90,1/100,False,DT,ED,I feel extremely guilty after overeating.,I feel like I must hurt myself or others.,False,False
+65,33,1/100,False,IA,ID,People I really like end up disappointing me.,I don't know what's going on inside me.,False,False
+65,18,1/100,False,IA,PA,People I really like end up disappointing me.,I feel alone in the world. ,False,False
+34,33,1/100,False,II,ID,I have trouble expressing my emotions to others.,I don't know what's going on inside me.,False,False
+15_57,80,1/100,False,II;II,PA,I am open about my feelings. ;I can talk about personal thoughts or feelings.,I feel that people give me the credit I deserve.,True;True,True
+21_26_51_60,54,1/100,False,ID;ID;ID;ID,IA,"I get confused about what emotion I am feeling.;I can clearly identify what emotion I am feeling.;When I'm upset, I don't know if I'm sad, scared, or angry.;I have feelings that I find difficult to identify.",I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,False;True;False;False,False
+50,89,1/100,False,LSE,IA,I feel that I am a valuable person.,I know there are people who love me.,True,True
+64,15_57,1/100,False,B,II;II,"When I am upset, I worry that I will start eating.",I am open about my feelings. ;I can talk about personal thoughts or feelings.,False,True;True
+33,1,1/100,False,ID,DT,I don't know what's going on inside me.,I eat sweets and carbohydrates without feeling nervous.,False,True
+53,34,1/100,False,B,II,I have the thought of trying to vomit in order to lose weight.,I have trouble expressing my emotions to others.,False,False
+50,41,1/100,False,LSE,LSE,I feel that I am a valuable person.,I have a low opinion of myself.,True,False
+84,87,1/100,False,PA,II,I feel like I am losing out everywhere.,I would rather spend time by myself than with others.,False,False
+70_79_83,65,1/100,False,ED;ED;ED,IA,I say things impulsively that I regret having said.;I am prone to outbursts of anger or range.;Others would say that I get irritated easily.,People I really like end up disappointing me.,False;False;False,False
+89,35,1/100,False,IA,MF,I know there are people who love me.,The demands of adulthood are too great.,True,False
+17,67,1/100,False,IA,ED,I trust others.,Other people would say that I am emotionally unstable.,True,False
+40,56,1/100,False,ID,PA,I get confused as to whether or not I am hungry.,I feel empty inside (emotionally). ,False,False
+37,65,1/100,False,LSE,IA,I feel safe with myself. ,People I really like end up disappointing me.,True,False
+90,70_79_83,1/100,False,ED,ED;ED;ED,I feel like I must hurt myself or others.,I say things impulsively that I regret having said.;I am prone to outbursts of anger or range.;Others would say that I get irritated easily.,False,False;False;False
+61,67,1/100,False,B,ED,I eat or drink in secret.,Other people would say that I am emotionally unstable.,False,False
+54,50,1/100,False,IA,LSE,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,I feel that I am a valuable person.,False,True
+70_79_83,91,1/100,False,ED;ED;ED,PA,I say things impulsively that I regret having said.;I am prone to outbursts of anger or range.;Others would say that I get irritated easily.,I feel that I really know who I am. ,False;False;False,True
+54,17,1/100,False,IA,IA,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,I trust others.,False,True
+34,54,1/100,False,II,IA,I have trouble expressing my emotions to others.,I need to keep people at a certain distance (feel uncomfortable of someone tries to get too close).,False,False
+42,8_44,1/100,False,LSE,ID;ID,I feel that I can achieve my standards.,I get frightened when my feelings are too strong.;I worry that my feelings will get out of control.,True,False;False
+8_44,64,1/100,False,ID;ID,B,I get frightened when my feelings are too strong.;I worry that my feelings will get out of control.,"When I am upset, I worry that I will start eating.",False;False,False
+64,34,1/100,False,B,II,"When I am upset, I worry that I will start eating.",I have trouble expressing my emotions to others.,False,False
+4_5_28_38_46,80,1/100,False,B;B;B;B;B,PA,I eat when I am upset.;I binge eat.;I have gone on eating binges where I felt that I could not stop.;I think about bingeing (overeating).;I eat moderately in front of others and stuff myself when they are gone.,I feel that people give me the credit I deserve.,False;False;False;False;False,True
+87,91,1/100,False,II,PA,I would rather spend time by myself than with others.,I feel that I really know who I am. ,False,True
+20,76,1/100,False,PA,IA,I feel generally in control of things in my life.,People understand my real problems.,True,True
+18,20,1/100,False,PA,PA,I feel alone in the world. ,I feel generally in control of things in my life.,False,True
+56,33,1/100,False,PA,ID,I feel empty inside (emotionally). ,I don't know what's going on inside me.,False,False
+61,80,1/100,False,B,PA,I eat or drink in secret.,I feel that people give me the credit I deserve.,False,True
+21_26_51_60,34,1/100,False,ID;ID;ID;ID,II,"I get confused about what emotion I am feeling.;I can clearly identify what emotion I am feeling.;When I'm upset, I don't know if I'm sad, scared, or angry.;I have feelings that I find difficult to identify.",I have trouble expressing my emotions to others.,False;True;False;False,False
